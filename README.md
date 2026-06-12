@@ -1,39 +1,51 @@
-# Hi there, I'm Srijan! 👋
-
-I am a Full-Stack and Backend Developer specializing in **Backend Architecture**, **AI Infrastructure**, and delivering complete web experiences. I love building robust, high-performance server-side applications and the secure data pipelines required to deploy AI models into production.
-
-## 🚀 About Me
-
-* 🏗️ **Specializations:** AI Backends, Secure API Design, and System Architecture.
-* 💻 **What I do:** Design RESTful APIs, build secure data pipelines for AI integration, and develop full-stack applications using the MERN stack.
-* 🌱 **Currently exploring:** Advanced cloud deployments and optimizing high-performance server-side applications.
-* 👯 **Open to collaborate on:** Open-source backend projects, AI infrastructure pipelines, and Full-Stack React/Next.js apps.
-* 📫 **Let's connect:** **[LinkedIn](https://www.linkedin.com/in/srijantrpth/)**
-
-## 💻 Technical Stack
-
-### Backend & Databases
-* **Frameworks/Environments:** Node.js, Django, Express.js
-* **Databases:** PostgreSQL, MongoDB
-* **Core Skills:** RESTful APIs, Secure API Design, High-performance server-side logic
-
-### Frontend Development
-* **Libraries/Frameworks:** React, Next.js
-* **Stack Focus:** MERN Stack
-
-### AI Infrastructure
-* **Focus:** Building secure data pipelines, backend integration, and deploying/serving AI models in production environments.
-
-### Cloud & Tools
-* **Cloud:** AWS
-* **Tools:** Git, Docker, Postman
-
-## 📈 My GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srijantrpth&show_icons=true&theme=radical&hide_border=true" alt="Srijan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijantrpth&layout=compact&theme=radical&hide_border=true" alt="Srijan's Top Languages" />
+
+# ⚡ Hi there, I'm Srijan!
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Architect;AI+Infrastructure+Engineer;Full-Stack+Developer)](https://git.io/typing-svg)
+
+*Engineering robust backend systems and scalable AI pipelines.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijantrpth/)
+
 </div>
 
 ---
-⭐️ *From [srijantrpth](https://github.com/srijantrpth)*
+
+## 🚀 About Me
+
+I specialize in **Backend Architecture**, **AI Infrastructure**, and delivering complete full-stack web experiences. My core focus is building robust, high-performance server-side applications and engineering the secure data pipelines required to deploy AI models directly into production environments.
+
+- 🏗️ **Current Focus:** AI Backends, Secure API Design, System Architecture
+- 💻 **Ecosystems:** MERN Stack, Django, Cloud Deployments
+- 🌱 **Continuous Learning:** Scaling cloud infrastructure and optimizing model deployment workflows.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### Infrastructure, Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srijantrpth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Srijan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijantrpth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Srijan's Top Languages" width="48%" />
+</div>
