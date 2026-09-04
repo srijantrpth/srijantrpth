@@ -51,6 +51,6 @@ I specialize in **Backend Architecture**, **AI Infrastructure**, and delivering 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srijantrpth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Srijan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijantrpth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Srijan's Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=srijantrpth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2" alt="Srijan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijantrpth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2" alt="Srijan's Top Languages" width="48%" />
 </div>
